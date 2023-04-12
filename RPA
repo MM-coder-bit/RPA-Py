@@ -1,0 +1,22 @@
+RPA
+
+12/04/2023
+
+A automação de processos robóticos (RPA) é uma forma de tecnologia de automação de processos comerciais 
+baseada em metafóricos robôs de software (bots) ou em inteligência artificial (IA)/trabalhadores digitais[1].
+ Às vezes é chamada de robótica de software (não confundir com software robótico).
+
+Em ferramentas tradicionais de automação de fluxo de trabalho, um desenvolvedor de software produz uma lista 
+de ações para automatizar uma tarefa e fazer interface com o sistema back end usando interfaces internas de 
+programação de aplicativos (APIs) ou linguagem de script dedicada. Em contraste, os sistemas RPA desenvolvem a 
+lista de ações observando o usuário executar essa tarefa na interface gráfica de usuário (GUI) da aplicação, 
+e então realizam a automação repetindo essas tarefas diretamente na GUI. Isto pode diminuir a barreira para o uso 
+da automação em produtos que de outra forma poderiam não apresentar APIs para este fim.
+
+As ferramentas RPA têm fortes semelhanças técnicas com as ferramentas gráficas de teste da interface com o usuário.
+Estas ferramentas também automatizam as interações com a GUI, e freqüentemente o fazem repetindo um conjunto de ações
+de demonstração realizadas por um usuário. As ferramentas RPA diferem de tais sistemas na medida em que permitem que 
+os dados sejam tratados em e entre múltiplas aplicações, por exemplo, receber e-mails contendo uma fatura, extrair os
+dados e depois digitar isso em um sistema de contabilidade. 
+
+demonstração
